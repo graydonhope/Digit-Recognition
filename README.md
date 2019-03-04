@@ -42,6 +42,9 @@ The gradient check is used for a few test values, confirms the backpropagation a
 
 This implementation then uses fmincg to learn the parameter values.
 
+### Some Dataset Examples
+![image](https://user-images.githubusercontent.com/41659296/53734176-283efb00-3e51-11e9-9057-5cb5d236b382.png)
+
 
 
 Based off of Stanford's Machine Learning Course taught by professor Andrew Ng.
