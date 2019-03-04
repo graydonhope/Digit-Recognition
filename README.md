@@ -38,7 +38,7 @@ This numerical function uses an alternative approach to compute the derivatives:
 Which gives:
 ![image](https://user-images.githubusercontent.com/41659296/53733717-dfd30d80-3e4f-11e9-8751-4d6449888adb.png)
 
-The gradient check is used for a few test values, then turned off as it is computationally inefficient.
+The gradient check is used for a few test values, confirms the backpropagation algorithm implementation is correct, then turns off as it is computationally inefficient.
 
 This implementation then uses fmincg to learn the parameter values.
 
