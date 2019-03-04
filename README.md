@@ -2,7 +2,8 @@
 
 ## Training Accuracy: 96.7%
 
-Implementing the backpropagation algorithm for a neural network, and apply it to hand-written digit recognition. 
+Implementing a neural network and applying it to hand-written digit recognition. 
+The program is able to successfully recognizie digits and classify them accordingly. 
 
 ## Some theory about the project...
 
